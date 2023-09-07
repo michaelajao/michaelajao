@@ -1,15 +1,15 @@
 [![MasterHead](https://drive.google.com/uc?export=view&id=11g9ugrhcSQI8odU7sf5QkfNqYx4qS_Pj)](http://miolajtech.co.uk/)
 
 <h1 align="center">Hi 👋, I'm Michael Ajao-olarinoye</h1>
-<h3 align="center">Computational Scientist | Researching Optimal Resource Allocation during Pandemics at Coventry University</h3>
+<h3 align="center">Computational Scientist | Data scientist | Researching Optimal Resource Allocation during Pandemics at Coventry University</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelajao&label=Profile%20views&color=0e75b6&style=flat" alt="michaelajao" /> </p>
 
 <p align="left"> <a href="https://twitter.com/michaelajao" target="blank"><img src="https://img.shields.io/twitter/follow/michaelajao?logo=twitter&style=for-the-badge" alt="michaelajao" /></a> </p>
 
-- 🔭 I’m currently working on **Algorithms for Optimizing Resource Allocation in COVID-19 Pandemic**
+- 🔭 I’m currently working on **Algorithms for Optimising Resource Allocation in COVID-19 Pandemic**
 
-- 🌱 I’m currently learning **Timeseries analysis, deep learning, algorithm design, and mathematical modeling in the context of public health**
+- 🌱 I’m currently learning **Timeseries analysis, deep learning, algorithm design, and mathematical modelling in the context of public health**
 
 - 👯 I’m looking to collaborate on **Deep Learning projects, Timeseries projects, scientific machine learning project**
 
