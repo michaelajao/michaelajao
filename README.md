@@ -1,8 +1,8 @@
-[![MasterHead](https://www.canva.com/design/DAFEDXGP2TM/view)](http://miolajtech.co.uk/)
+[![MasterHead]([https://www.canva.com/design/DAFEDXGP2TM/view](https://livecoventryac-my.sharepoint.com/:i:/g/personal/olarinoyem_uni_coventry_ac_uk/EeqVYmUMSpJFqc4TBEKHMMoBygfkgCLGHGQiI6ew7F5jZg?e=nWOMxg))](http://miolajtech.co.uk/)
 
 <h1 align="center">Hi 👋, I'm Michael Ajao-olarinoye</h1>
 <h3 align="center">Computational Scientist | Researching Optimal Resource Allocation during Pandemics at Coventry University</h3>
-<img align="right" alt="Coding" width="400" scr="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michaelajao&label=Profile%20views&color=0e75b6&style=flat" alt="michaelajao" /> </p>
 
 <p align="left"> <a href="https://twitter.com/michaelajao" target="blank"><img src="https://img.shields.io/twitter/follow/michaelajao?logo=twitter&style=for-the-badge" alt="michaelajao" /></a> </p>
