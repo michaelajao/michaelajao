@@ -1,5 +1,4 @@
 [![MasterHead](https://www.canva.com/design/DAFEDXGP2TM/view)](http://miolajtech.co.uk/)
-https://www.canva.com/design/DAFEDXGP2TM/view
 
 <h1 align="center">Hi 👋, I'm Michael Ajao-olarinoye</h1>
 <h3 align="center">Computational Scientist | Researching Optimal Resource Allocation during Pandemics at Coventry University</h3>
