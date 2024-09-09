@@ -1,8 +1,6 @@
-[![MasterHead](https://drive.google.com/uc?export=view&id=11g9ugrhcSQI8odU7sf5QkfNqYx4qS_Pj)](http://miolajtech.co.uk/)
-
 <h1 align="centre">Hello 👋, I’m Michael Ajao-Olarinoye</h1>
 <h3 align="centre">PhD Researcher | Data Scientist | Machine Learning Specialist</h3>
-<h4 align="centre">Researching Optimal Resource Allocation during Pandemics | Teaching Assistant at Various Levels</h4>
+<h4 align="centre">Researching Optimal Resource Allocation during Pandemics | Teaching Assistant </h4>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif">
 
