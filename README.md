@@ -16,15 +16,13 @@
 
 - 🔭 I am currently working on **Algorithms for Optimising Resource Allocation during the COVID-19 Pandemic**.
   
-- 🌱 I’m currently developing my knowledge in **time series analysis, deep learning, algorithm design, and mathematical modelling within the realm of public health.
-
-**.
+- 🌱 I’m currently developing my knowledge in **time series analysis, deep learning, algorithm design, and mathematical modelling within the realm of public health.**.
   
 - 👯 I’m interested in collaborating on **deep learning, time series forecasting, Computer vision, and scientific machine learning projects**.
 
 - 📫 You can reach me at **ajaoolarinoyemichael@gmail.com**
 
-- ⚡ Fun fact: ** I believe my research can change the world, but first, I need to find that missing semicolon!**
+- ⚡ Fun fact: **I believe my research can change the world, but first, I need to find that missing semicolon!**.
 
 ---
 
