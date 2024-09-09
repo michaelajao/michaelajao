@@ -57,8 +57,11 @@ Python, JavaScript, Bash
 #### **Machine Learning/AI**:  
 TensorFlow, PyTorch, Scikit-learn, Pandas
 
+#### **Web and DevOps**:
+Docker, Heroku, Node.js
+
 #### **Data Engineering and Tools**:  
-Docker, Heroku, Git, MySQL, Apache Hadoop
+Git, MySQL, Apache Hadoop
 
 ---
 
