@@ -18,7 +18,7 @@
 
 - 🎓 I recently completed my **PhD in Computational Science & Mathematical Modelling**, focused on **spatiotemporal deep learning and optimisation for epidemic forecasting and healthcare resource allocation**.
 
-- 🧠 My research sits at the intersection of **machine learning, scientific computing, and public health** — spatiotemporal graph neural networks, physics-informed neural networks (PINNs), and time-series forecasting.
+- 🧠 My research sits at the intersection of **machine learning, scientific computing, and public health** — forecasting models (classical, deep, graph-based, and hybrid mechanistic–neural), physics-informed neural networks (PINNs), and time-series analysis.
 
 - 👨‍🏫 I'm also an **Associate Lecturer** (QAHE), teaching computing, client-side development, and deep learning, and I mentor students across MSc projects and dissertations.
 
@@ -32,13 +32,13 @@
 
 ## 🔭 Research Focus
 
-- **Spatiotemporal Epidemic Forecasting** — Designing graph neural network architectures (e.g. **MSAGAT-Net**, a multi-scale attention spatiotemporal GAT) for forecasting case counts and hospital/ICU demand, benchmarked against EpiGNN, ColaGNN, and DCRNN.
+- **Forecasting Models for Public Health** — Building and benchmarking a spectrum of forecasting approaches: classical/statistical baselines (ARIMA, exponential smoothing), sequence deep learning (RNN, LSTM, GRU, Seq2Seq, temporal attention), graph-based spatiotemporal models (e.g. **MSAGAT-Net**, a multi-scale attention spatiotemporal GAT, benchmarked against EpiGNN, ColaGNN, DCRNN), and **hybrid mechanistic–neural models** (PINN-SEIRD) that fuse epidemiological dynamics with data-driven learning.
 
 - **Scientific Machine Learning (PINNs)** — Physics-informed neural networks for cardiovascular haemodynamics: pulsatile flow in Marfan syndrome, coronary arteries and saphenous-vein grafts, and thoracic aortic aneurysms (Navier–Stokes with non-Newtonian viscosity, wall-shear-stress prediction).
 
 - **Digital Health & Clinical ML** — Dropout prediction for the HOPE-MOVE intervention, including a FastAPI prediction service, a clinician-facing dashboard, and an automated alerting engine.
 
-- **Deep Learning for Time Series** — RNN / LSTM / Seq2Seq models and hybrid mechanistic–neural approaches (PINN-SEIRD) for public-health trend forecasting.
+- **Healthcare Resource Allocation** — Optimisation and modelling for distributing constrained healthcare resources (e.g. ICU capacity, interventions) during pandemics.
 
 ---
 
@@ -75,7 +75,7 @@ PyTorch · TensorFlow · scikit-learn · NumPy · SciPy · pandas · Graph Neura
 FastAPI · Streamlit · MySQL · Git · Docker
 
 **Domains**
-Time-series forecasting · Spatiotemporal modelling · Computational fluid dynamics · Epidemiological modelling · Optimisation
+Time-series forecasting (statistical · deep · graph-based · hybrid) · Spatiotemporal modelling · Computational fluid dynamics · Epidemiological modelling · Optimisation
 
 ---
 
@@ -98,11 +98,5 @@ Open to collaboration and discussion on **scientific ML**, **forecasting**, **PI
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelajao&show_icons=true&locale=en&layout=compact&theme=default" alt="michaelajao" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelajao&show_icons=true&locale=en&theme=default" alt="michaelajao" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelajao&" alt="michaelajao" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelajao&" alt="Michael's GitHub streak stats" />
 </p>
