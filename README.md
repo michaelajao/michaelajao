@@ -1,94 +1,108 @@
-<h1 align="centre">Hello 👋, I’m Michael Ajao-Olarinoye</h1>
-<h3 align="centre">PhD Researcher | Data Scientist | Machine Learning Specialist</h3>
-<h4 align="centre">Researching Optimal Resource Allocation during Pandemics | Teaching Assistant </h4>
+<h1 align="center">Hi there 👋, I'm Michael Ajao-Olarinoye</h1>
+<h3 align="center">Research Fellow · Data Scientist · Machine Learning & Scientific ML Researcher</h3>
+<h4 align="center">PhD in Computational Science & Mathematical Modelling · AFHEA</h4>
+<h4 align="center">Building ML for digital health, epidemic forecasting & physics-informed modelling</h4>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif">
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/13UZisxBxkjPwI/giphy.gif">
 
-<p align="left"> 
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=michaelajao&label=Profile%20views&color=0e75b6&style=flat" alt="michaelajao" />
 </p>
-
 <p align="left">
   <a href="https://twitter.com/michaelajao" target="blank">
     <img src="https://img.shields.io/twitter/follow/michaelajao?logo=twitter&style=for-the-badge" alt="michaelajao" />
   </a>
 </p>
 
-- 🔭 I am currently working on **Algorithms for Optimising Resource Allocation during the COVID-19 Pandemic**.
-  
-- 🌱 I’m currently developing my knowledge in **time series analysis, deep learning, algorithm design, and mathematical modelling within the realm of public health.**.
-  
-- 👯 I’m interested in collaborating on **deep learning, time series forecasting, Computer vision, and scientific machine learning projects**.
+- 🔬 I'm a **Research Fellow** at the Centre for Computational Sciences & Mathematical Modelling (CSMM), **Coventry University**, working on the **HOPE-MOVE** programme — an internet-based self-management intervention for people living with long-term health conditions.
 
-- 📫 You can reach me at **ajaoolarinoyemichael@gmail.com**
+- 🎓 I recently completed my **PhD in Computational Science & Mathematical Modelling**, focused on **spatiotemporal deep learning and optimisation for epidemic forecasting and healthcare resource allocation**.
 
-- ⚡ Fun fact: **I believe my research can change the world, but first, I need to find that missing semicolon!**.
+- 🧠 My research sits at the intersection of **machine learning, scientific computing, and public health** — spatiotemporal graph neural networks, physics-informed neural networks (PINNs), and time-series forecasting.
 
----
+- 👨‍🏫 I'm also an **Associate Lecturer** (QAHE), teaching computing, client-side development, and deep learning, and I mentor students across MSc projects and dissertations.
 
-## Research and Projects
+- 👯 Happy to collaborate on **scientific ML, time-series & graph forecasting, computer vision, PINNs, and applied AI for health**.
 
-- **Optimal Resource Allocation during Pandemics**: 
-  I am developing algorithms that optimise the distribution of critical healthcare resources during pandemics, such as COVID-19, improving the efficacy of public health responses.
-  
-- **Deep Learning for Time Series Analysis**: 
-  Collaborating on research that applies recurrent neural networks (RNNs) networks for public health trend forecasting.
-  
-- **Scientific Machine Learning**: 
-  Using physics-informed neural networks (PINNs) to solve real-world problems by combining data-driven models with scientific principles.
+- 📫 Reach me at **ajaoolarinoyemichael@gmail.com**
+
+- ⚡ Fun fact: **I believe my research can change the world — right after I find that missing semicolon.**
 
 ---
 
-## Teaching Experience
+## 🔭 Research Focus
 
-- **Teaching Assistant** at Coventry University, specialising in Data Science and Machine Learning.
-  
-- Mentor and guide for students at various levels, focusing on **Python**, **Julia**, **machine learning**, and **algorithm design**.
+- **Spatiotemporal Epidemic Forecasting** — Designing graph neural network architectures (e.g. **MSAGAT-Net**, a multi-scale attention spatiotemporal GAT) for forecasting case counts and hospital/ICU demand, benchmarked against EpiGNN, ColaGNN, and DCRNN.
 
----
+- **Scientific Machine Learning (PINNs)** — Physics-informed neural networks for cardiovascular haemodynamics: pulsatile flow in Marfan syndrome, coronary arteries and saphenous-vein grafts, and thoracic aortic aneurysms (Navier–Stokes with non-Newtonian viscosity, wall-shear-stress prediction).
 
-## Skills and Tools
+- **Digital Health & Clinical ML** — Dropout prediction for the HOPE-MOVE intervention, including a FastAPI prediction service, a clinician-facing dashboard, and an automated alerting engine.
 
-#### **Programming Languages**:  
-Python, JavaScript, Bash
-
-#### **Machine Learning/AI**:  
-TensorFlow, PyTorch, Scikit-learn, Pandas
-
-#### **Web and DevOps**:
-Docker, Heroku, Node.js
-
-#### **Data Engineering and Tools**:  
-Git, MySQL, Apache Hadoop
+- **Deep Learning for Time Series** — RNN / LSTM / Seq2Seq models and hybrid mechanistic–neural approaches (PINN-SEIRD) for public-health trend forecasting.
 
 ---
 
-## Let's Connect!
+## 📚 Selected Publications
 
-Feel free to connect with me for collaborations or discussions on impactful projects in **machine learning**, **time series forecasting**, or **scientific research**.
+- **Rehman et al.** (incl. *Ajao-Olarinoye, M.*), *Pulsatile flow study in Marfan syndrome aortas* — **Physics of Fluids**, 37(3), 031913, 2025. *(peer-reviewed)*
+- **Ajao-Olarinoye, M.,** Palade, V., Mousavi, S., He, F., Wark, P. A. — *Deep Learning Based Forecasting of COVID-19 Hospitalisation in England: A Comparative Analysis* — **IEEE ICMLA 2023**. *(peer-reviewed)*
+- **Ajao-Olarinoye, M.,** et al. — *Hybrid PINN-SEIRD modelling* — Book chapter, **Taylor & Francis** *(in press)*.
+- **MSAGAT-Net** — multi-scale attention spatiotemporal GNN for epidemic forecasting — submitted to **Artificial Intelligence in Medicine** *(under review)*.
+- Double descending thoracic aortic aneurysm haemodynamics — submitted to **Pramana – Journal of Physics** *(under review)*.
+
+📄 Full list: [Google Scholar](https://scholar.google.com/citations?user=CXrGkfEAAAAJ&hl=en) · [Coventry PURE](https://pureportal.coventry.ac.uk/en/persons/michael-ajao-olarinoye/) · [ResearchGate](https://www.researchgate.net/profile/Michael-Ajao-Olarinoye)
+
+---
+
+## 👨‍🏫 Teaching
+
+- **Research Fellow**, CSMM, Coventry University — HOPE-MOVE programme.
+- **Associate Lecturer**, QAHE — computing, client-side development, and deep learning.
+- Supervisor & mentor for MSc projects and dissertations (Python, machine learning, computer vision, algorithm design).
+- **Associate Fellow of the Higher Education Academy (AFHEA)**.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**
+Python · Julia · JavaScript · SQL · Bash · LaTeX
+
+**Machine Learning / Scientific ML**
+PyTorch · TensorFlow · scikit-learn · NumPy · SciPy · pandas · Graph Neural Networks · Physics-Informed Neural Networks
+
+**Data & Apps**
+FastAPI · Streamlit · MySQL · Git · Docker
+
+**Domains**
+Time-series forecasting · Spatiotemporal modelling · Computational fluid dynamics · Epidemiological modelling · Optimisation
+
+---
+
+## 🤝 Let's Connect
+
+Open to collaboration and discussion on **scientific ML**, **forecasting**, **PINNs**, and **applied AI for health**.
 
 <p align="left">
   <a href="https://twitter.com/michaelajao" target="blank">
-    <img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaelajao" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaelajao" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/michael-ajao" target="blank">
-    <img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-ajao" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-ajao" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/c/@miolajtech2439" target="blank">
-    <img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@miolajtech2439" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@miolajtech2439" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelajao&show_icons=true&locale=en&layout=compact" alt="michaelajao" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=michaelajao&show_icons=true&locale=en&layout=compact&theme=default" alt="michaelajao" />
 </p>
-
-<p>
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=michaelajao&show_icons=true&locale=en" alt="michaelajao" />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=michaelajao&show_icons=true&locale=en&theme=default" alt="michaelajao" />
 </p>
-
-<p>
-  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelajao&" alt="michaelajao" />
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=michaelajao&" alt="michaelajao" />
 </p>
